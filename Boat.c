@@ -2,7 +2,7 @@ include <stdio.h>
 int main(void){
 
 while(1){
-boat();
+boat(); boatbot2();
 }
 
 }
